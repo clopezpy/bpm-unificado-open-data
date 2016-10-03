@@ -25,7 +25,7 @@ Para este trabajo se analizaron leyes, decretos, manuales, guías y estándares 
 El enfoque para modelar un proceso de negocio a través de un motor BPM es utilizado para obtener el proceso unificado. Para la selección de este motor se evaluaron varias alternativas con criterios estándares para la evaluación de herramientas BPM, <b>BonitaSoft</b> fue la herramienta seleccionada para realizar la implementación computacional. En la Figura 1, se puede observar la arquitectura propuesta para el proyecto.</br>
 
 <p align="center">
-  <img src="https://lh6.googleusercontent.com/iuSO9ylPV4zOJA5R6ou6-hwDj8ktzVlQIkrR0auquJeaZyYqn2vRU3lq_eFuWfvORAhF7WQR0xv9sfE=w1024-h638-rw" width="350" align="bottom"> Figura 1: Arquitectura Propuesta
+  <img src="https://github.com/clopezpy/bpm-unificado-open-data/blob/master/arquitectura.png" width="350" align="bottom"> Figura 1: Arquitectura Propuesta
 </p>
 
 Comunidad Bonita BPM Edition</br>
